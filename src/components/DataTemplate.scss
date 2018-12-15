@@ -1,0 +1,20 @@
+.data-template {
+    width: 320px;
+    display: inline-block;
+    &__text {
+        font-size: 14px;
+        color: #333;
+    }
+    &__link {
+        font-size: 18px;
+        color: rgba(50, 50, 245, 0.555);
+        width: 100%;
+    }
+    &__date {
+        font-size: 11px;
+        color: #666;
+    }
+    &__date span {
+        color: blue;
+    }
+}

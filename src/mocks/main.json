@@ -1,0 +1,50 @@
+{
+    "IsLoggedIn": false,
+    "Username": "reactfan",
+    "Autoddits": [
+        {
+            "AutodditID": "0",
+            "Title": "Epic games dominates the battle royale genre",
+            "ImageURL": "https://memestatic.fjcdn.com/pictures/Warrning+about+epic+games+accounts+i+never+had+a+epic_c1a8cb_6645963.png",
+            "SubmissionDate": "Apr 28, 2018 08:50",
+            "SubmissionUser:": "reactfan",
+            "VotesCount": "30",
+            "Comments": [
+                {
+                    "CommentId": "0",
+                    "Text": "looking forward",
+                    "Votes": "2",
+                    "SubmissionDate": "Apr 28, 2018 12:30",
+                    "SubmissionUser": "reactfan",
+                    "Comments": [
+                        {
+                            "CommentId": "0",
+                            "Text": "brilliant",
+                            "Votes": "1",
+                            "SubmissionDate": "Apr 28, 2018 13:30",
+                            "SubmissionUser": "reactfan"
+                        }
+                    ]
+                },
+                {
+                    "CommentId": "1",
+                    "Text": "Will be awesome",
+                    "Votes": "10",
+                    "SubmissionDate": "Apr 28, 2018 12:30",
+                    "SubmissionUser": "reactfan",
+                    "Comments": []
+                }
+            ]
+        },
+        {
+            "AutodditID": "q",
+            "Title": "Battlfield V battle royale will be released during 2019",
+            "ImageURL": "https://cdn.gearnuke.com/wp-content/uploads/2018/05/battlefield-v-reveal-logo-768x432.jpg",
+            "SubmissionDate": "Aug 29, 2018 11:59",
+            "SubmissionUser:": "reactfan",
+            "VotesCount": "60",
+            "Comments": []
+
+        }
+    ]
+}

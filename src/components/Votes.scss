@@ -1,0 +1,16 @@
+.votes {
+    width: 50px;
+    height: 60px;
+    color: #666;
+    display: inline-block;
+    text-align: center;
+    &__up {
+
+    }
+    &__count {
+        font-size: 14px;
+    }
+    &__down {
+
+    }
+}
